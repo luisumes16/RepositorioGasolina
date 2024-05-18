@@ -1,0 +1,13 @@
+C:\Users\luisc\source\repos\Proyecto Gasolinera\Proyecto Gasolinera\bin\Debug\Proyecto Gasolinera.exe.config
+C:\Users\luisc\source\repos\Proyecto Gasolinera\Proyecto Gasolinera\bin\Debug\Proyecto Gasolinera.exe
+C:\Users\luisc\source\repos\Proyecto Gasolinera\Proyecto Gasolinera\bin\Debug\Proyecto Gasolinera.pdb
+C:\Users\luisc\source\repos\Proyecto Gasolinera\Proyecto Gasolinera\obj\Debug\Proyecto Gasolinera.csproj.AssemblyReference.cache
+C:\Users\luisc\source\repos\Proyecto Gasolinera\Proyecto Gasolinera\obj\Debug\Proyecto_Gasolinera.Form1.resources
+C:\Users\luisc\source\repos\Proyecto Gasolinera\Proyecto Gasolinera\obj\Debug\Proyecto_Gasolinera.Properties.Resources.resources
+C:\Users\luisc\source\repos\Proyecto Gasolinera\Proyecto Gasolinera\obj\Debug\Proyecto Gasolinera.csproj.GenerateResource.cache
+C:\Users\luisc\source\repos\Proyecto Gasolinera\Proyecto Gasolinera\obj\Debug\Proyecto Gasolinera.csproj.CoreCompileInputs.cache
+C:\Users\luisc\source\repos\Proyecto Gasolinera\Proyecto Gasolinera\obj\Debug\Proyecto Gasolinera.exe
+C:\Users\luisc\source\repos\Proyecto Gasolinera\Proyecto Gasolinera\obj\Debug\Proyecto Gasolinera.pdb
+C:\Users\luisc\source\repos\Proyecto Gasolinera\Proyecto Gasolinera\bin\Debug\Newtonsoft.Json.dll
+C:\Users\luisc\source\repos\Proyecto Gasolinera\Proyecto Gasolinera\bin\Debug\Newtonsoft.Json.xml
+C:\Users\luisc\source\repos\Proyecto Gasolinera\Proyecto Gasolinera\obj\Debug\Proyecto Gasolinera.csproj.CopyComplete
