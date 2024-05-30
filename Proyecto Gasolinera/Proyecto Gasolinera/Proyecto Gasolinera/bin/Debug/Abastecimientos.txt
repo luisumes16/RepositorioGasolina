@@ -1,0 +1,16 @@
+Luis;Colop;1921029;Ciudad;2;40;1;29/05/2024;Prepago limitado
+Julio;Colop;1921029;Ciudad;2;40;1;29/05/2024;lleno
+Lucas;Camposeco;123456;Direccion;0;0;1;29/05/2024;Prepago limitado
+Mijail;Xulu;182918;CANTEL;0;0;1;29/05/2024;Tanque lleno
+Carlos;Xulu;1231231;Cantel;0;0;1;29/05/2024;Tanque lleno
+lkj;lkj;128;98;0;0;1;29/05/2024;Tanque lleno
+lkj;lkj;987;lkj;0;0;1;29/05/2024;Tanque lleno
+lkj;lh;87;lkj;0;0;1;29/05/2024;Tanque lleno
+lkj;lh;87;lkj;0;0;1;29/05/2024;Tanque lleno
+lkj;lkj;987;lkj;0;0;1;29/05/2024;Tanque lleno
+lkj;lkj;987;lkj;0;0;1;29/05/2024;Tanque lleno
+lkj;lkj;987;lkj;0;0;1;29/05/2024;Tanque lleno
+adfaf;adfasdf;23123;adsfadf;0;0;1;29/05/2024;Prepago limitado
+lkjlj;lkjlk;9879;hjhjhk;0;0;1;29/05/2024;Prepago limitado
+lkj;lkj;987;lkj;0;0;1;29/05/2024;Prepago limitado
+lkj;lkj;987;lkj;0;0;1;29/05/2024;Prepago limitado
